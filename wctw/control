@@ -1,0 +1,9 @@
+Package: hw.wctw
+Name: wctw
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: user1231
+Author: user1231
+Section: Tweaks
